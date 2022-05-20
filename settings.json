@@ -1,0 +1,11 @@
+{
+    "folder": "../f",
+    "K": 2,
+    "COMM_LATENCY": 25.0,
+    "COMM_TRANSFER_RATE": 2,
+    "BALANCE_MEMORY": false,
+    "REPLICATION_FACTOR": 1,
+    "DEVICE_MEM_CAPACITY": 800000000,
+    "MEMORY_OVER_CCR": 0,
+    "HEURISTIC_1": 0
+}
